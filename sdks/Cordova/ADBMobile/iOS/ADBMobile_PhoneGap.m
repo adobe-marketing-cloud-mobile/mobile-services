@@ -19,7 +19,8 @@
 
 #import <CoreLocation/CoreLocation.h>
 #import "ADBMobile_PhoneGap.h"
-#import "ADBMobile.h"
+//#import "ADBMobile.h"
+#import <CordovaPlugins/CordovaPlugins.h>
 
 #define STRING [NSString class]
 #define NUMBER [NSNumber class]
